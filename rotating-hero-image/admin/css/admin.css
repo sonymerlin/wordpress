@@ -1,0 +1,111 @@
+body#tinymce.wp-editor.content {
+
+    background: #fff !important;
+    width: 100%;
+
+} 
+
+.clsHerImageOptions table tbody tr {
+
+    margin-bottom: 10px;
+    display: block;
+
+}
+
+.clsHerImageOptions table tbody tr th {
+    width: 15%;
+    text-align: left;
+}
+
+.clsHerImageOptions table tbody tr td{
+
+	width:60%;
+	text-align: left;
+
+}
+.clsHerImageOptions table {
+  /* padding-bottom: 5px;
+  margin-bottom: 50px; */
+  padding: 15px 15px 0px 15px;
+  width: 100%;
+}
+#build-button-fieldset #widefat	{
+	padding: 0;
+}
+.clsHerImageOptions table tbody tr {
+	margin-bottom: 15px;
+    display: flex;
+    text-align: left;
+}
+td.clsLabel {
+    font-size: 15px;
+}
+#wsxhi-build-button-fieldset input {
+    width: 100%;
+}
+
+#wsxhi-build-button-fieldset\ widefat input {
+
+    width: 50%;
+
+}
+
+#wsxhi-build-button-fieldset\ widefat .clsLabel{
+    width:20%;
+}
+
+#wsxhi-build-button-fieldset\ widefat tr td {
+
+    padding: 10px !important;
+
+}
+
+.clsWsxhiShortcode {
+
+    background: white;
+    padding: 10px;
+    border: 1px black solid;
+
+}
+.clsHerImageOptions table tbody tr th {
+
+    width: 250px;
+
+}
+
+.clsHerImageOptions table tbody tr {
+
+    margin-bottom: 20px;
+
+}
+.clsHerImageOptions table tbody tr td label,
+.clsHerImageOptions table tbody tr th label{
+
+    font-size: 14px !important;
+    font-weight: normal !important;
+
+}
+
+.clsHerImageOptions table {
+
+    border-bottom: #e1e1e1 solid 1px;
+
+}
+
+#wsxhi-build-button-fieldset\ widefat input.link_type {
+    width: auto!important;
+
+}
+
+a .Herobtn {
+    font-size: 18px !important;
+    font-family: oswald;
+    text-transform: uppercase;
+    text-decoration: none !important;
+    display: inline-block;
+    text-align: center;
+    font-weight: 400;
+    padding: 0 18px !important;
+    line-height: 40px !important;
+    border-radius: 3px !important;
+}
