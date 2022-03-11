@@ -1,0 +1,125 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+a#wsxsml-add {
+    background: #0062cc;
+    color: #fff;
+	border: #0069d9;
+}
+a#wsxsml-add:hover {
+    background: #0069d9;
+}
+a#wsxsml-remove {
+
+    color: red;
+	  float: right;
+}
+a#wsxsml-remove:hover {
+    color: #dc3232;
+}
+input.icon-image-delete-button.button {
+    margin-top: 2%;
+}
+input.icon-image-upload-button.button.button-primary {
+    margin-top: 2%;
+}
+.clsNewTable table,
+.clsSocialMediaOptions table {
+    padding-bottom: 0px;
+    margin-bottom: 35px;
+    padding: 15px 15px 30px 15px;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+
+}
+
+.icon-image-media {
+
+    width: 50px;
+    padding: 10px;
+
+}
+/* table th, table td{
+    padding: 0px 0px 35px!important;
+} */
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+.clsNewTable select,
+.clsSocialMediaOptions select {
+    padding: 0 80px 0 8px;
+}
+.clsNewTable th,
+.clsSocialMediaOptions th {
+
+	    width: 20%;
+}
+.clsSocialIns {
+    width: 90%;
+    margin: 0 auto;
+}
+.clsSocialIns strong {
+    background: #ccc;
+    padding: 5px 10px 5px 10px;
+}
+.clsNewTable table tbody tr {
+    margin-bottom: 15px;
+    display: flex;
+    text-align: left;
+}
+.clsNewTable {
+    width: 90%;
+}
+
+.clsSocialMediaOptions table tbody tr {
+    margin-bottom: 15px;
+    display: flex;
+    text-align: left;
+}
+.clsSocialMediaOptions table{
+    width: 90%;
+}
+
+.clsSocialMediaOptions a {
+
+    height: auto;
+    margin: 0 auto;
+}
+
+.clsSMLIcon span {
+    margin-left: 15px;
+    font-size: 30px;
+}
+
+#confirmBox
+{
+    display: none;
+    background-color: #eee;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    position: fixed;
+    width: 300px;
+    left: 50%;
+    margin-left: -150px;
+    padding: 6px 8px 8px;
+    box-sizing: border-box;
+    text-align: center;
+}
+#confirmBox .button {
+    background-color: #ccc;
+    display: inline-block;
+    border-radius: 3px;
+    border: 1px solid #aaa;
+    padding: 2px;
+    text-align: center;
+    width: 80px;
+    cursor: pointer;
+}
+#confirmBox .button:hover
+{
+    background-color: #ddd;
+}
+#confirmBox .message
+{
+    text-align: left;
+    margin-bottom: 8px;
+}

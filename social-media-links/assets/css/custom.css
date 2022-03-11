@@ -1,0 +1,31 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+.clsSocialMediaOptions{
+    display:flex;
+}
+
+
+
+.clsSocialMediaOptions a img{
+    width: 40px;
+
+    height: 40px;
+
+    margin-right: 12px;
+
+    display: inline-block;
+
+    list-style: none;
+
+    text-decoration: none;
+}
+
+.clsSocialMediaOptions a {
+
+    text-decoration: none;
+
+}
+
+.clsSocialMediaOptions i {
+    margin-right: 15px;
+}
